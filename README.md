@@ -8,4 +8,4 @@ http://havredest.eklablog.fr/correctif-pour-la-version-francaise-d-iwd2-a9009461
 
 ## Original redme
 
-[info.txt](IWD2_correctFR/IWD2_correctFR.tp2)
+[info.txt](IWD2_correctFR/info.txt)
